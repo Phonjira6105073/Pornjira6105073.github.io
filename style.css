@@ -1,0 +1,41 @@
+.myDiv {
+  margin-bottom: 10px;
+  font-size:20px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.myDiv2 {
+  margin:auto;
+  max-width: 25rem;
+}
+
+body {
+  padding-top: 50px;
+}
+
+input[type=text] {
+  padding: 4px 8px;
+  margin: 4px 0;
+  font-size:18px;
+}
+
+input[type=password] {
+  padding: 4px 8px;
+  margin: 4px 0;
+  font-size:18px;
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 10px;
+  margin-top: 4px;
+  font-size:18px;
+  width: 335px;
+  border: none;
+}
+
+h1 {
+  font-size:17px;
+  color:dimgray;
+}
